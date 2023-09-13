@@ -17,7 +17,7 @@ In the test file, the first item denotes the hyponym, while the second item deno
 ### Semeval-2016 Dataset
 
 The original dataset can be view [here](https://alt.qcri.org/semeval2016/task13/index.php?id=data-and-tools).
-Same reaons as the Chinese Taxonomy Dataset, image files are not available now.
+Same reason as the Chinese Taxonomy Dataset, image files are not available now.
 
 ## How to run
 
